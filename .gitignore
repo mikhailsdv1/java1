@@ -1,0 +1,14 @@
+*/bin/*
+*.class
+.classpath
+.project
+.gradle/*
+.settings
+runway/FS_ROOT/opt/tomcat/webapps/*
+.idea/
+*.iml
+/build/
+*/build
+*/out
+*/current/*
+/.gradle/
